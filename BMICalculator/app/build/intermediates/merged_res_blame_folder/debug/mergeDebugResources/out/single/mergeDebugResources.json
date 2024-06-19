@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_crosss.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\crosss.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\layout_activity_bmiactivity.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\layout\\activity_bmiactivity.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\font_raleway.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\font\\raleway.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\raw_logo.json.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\raw\\logo.json"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-xxhdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-xxhdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\font_playlist.ttf.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\font\\playlist.ttf"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_female.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\female.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable_cardbackgroung.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable\\cardbackgroung.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-ldpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-ldpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable_plusminus.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable\\plusminus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "com.codacrafts.bmicalculator.app-debug-32:/raw_logoo.json.flat",
+        "source": "com.codacrafts.bmicalculator.app-main-34:/raw/logoo.json"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_add.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_warning.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\warning.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_ok.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\ok.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.codacrafts.bmicalculator.app-debug-32:/layout_activity_splash_screen.xml.flat",
+        "source": "com.codacrafts.bmicalculator.app-main-34:/layout/activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_minus.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\minus.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-xhdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-xhdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-xxxhdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-xxxhdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-anydpi-v21_ic_baseline_calculate_24.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-anydpi-v21\\ic_baseline_calculate_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_buttonbackground.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\buttonbackground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\layout_activity_bmi.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\layout\\activity_bmi.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable_malefemalefocus.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable\\malefemalefocus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-mdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-mdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-hdpi_ic_baseline_calculate_24.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-hdpi\\ic_baseline_calculate_24.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_male.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\male.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-pngs-28:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable_malefemalenotfocus.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable\\malefemalenotfocus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\drawable-v24_bmifinall.png.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\drawable-v24\\bmifinall.png"
+    },
+    {
+        "merged": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-debug-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Asus\\.gradle\\daemon\\8.4\\com.codacrafts.bmicalculator.app-main-34:\\xml\\backup_rules.xml"
+    }
+]
